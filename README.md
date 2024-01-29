@@ -1,5 +1,7 @@
 SC2002 Project ReadMe
 
+Refer to SC2002 Object-Orientated Programming Assignment.pdf for the assignment question
+
 How to use CAMS:
 
 1. Run HomeUI.java
